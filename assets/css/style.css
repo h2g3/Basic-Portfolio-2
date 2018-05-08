@@ -1,1 +1,20 @@
 /*Basic-Portfolio-2-style.css*/
+
+body{
+    background-color: #deeef5;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+header{
+    background-color: #ffffff;
+    font-family: 'Times New Roman', Times, serif;
+
+
+}
+
+footer{
+    background-color: #646794;
+    color: aqua;
+    
+}
