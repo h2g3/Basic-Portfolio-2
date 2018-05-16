@@ -1,0 +1,63 @@
+/*Basic-Portfolio-2-style.css*/
+
+body{
+    background-color: rgb(217, 233, 252);
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#topbar{
+    background-color: #ffffff;
+    font-family: 'Times New Roman', Times, serif;
+    width: auto;
+    height: 80px;
+
+
+}
+
+h1{
+    margin-left: 280px;  
+        
+    width: 300px;
+    background-color: #11a3c7;
+    color: #ffffff;
+    
+
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li{
+    float: right;
+    font-family: Arial, Helvetica, sans-serif;
+        
+}
+
+li a{
+    display: block;
+    color: rgb(1, 7, 15);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+
+
+
+.container{
+    width: 960px;
+    margin-top: 40px;
+    margin: auto;
+}
+
+footer{
+    background-color: #646794;
+    color: aqua;
+    text-align: center;
+    
+}
