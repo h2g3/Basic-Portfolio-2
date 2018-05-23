@@ -24,11 +24,12 @@ body{
     height: 80px;
     background-color: #11a3c7;
     color: #ffffff;
+    align-content: center;
     
 
 }
 
-#B{
+#nav{
     margin-right: 160;
 }
 
