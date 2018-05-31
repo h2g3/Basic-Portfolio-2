@@ -35,7 +35,7 @@ body{
 }
 
 #nav{
-    margin-right: 160;
+    margin-right: 225px;
 }
 
 ul{
@@ -78,9 +78,43 @@ li a:hover{
     margin: auto;
 }
 
-footer{
+#about-me{
+    float: left;
+    width: 600px;
+    background-color: #ffffff;
+    margin-top: 27px;
+    margin-bottom: 73px;
+    padding: 20px;
+}
+
+h1{
+    color: #11a3c7;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    border-bottom: 5px;
+    border-bottom-color: deepskyblue;
+}
+
+img{
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+p{
+    color: #11a3c7;
+}
+
+#sidebar{
+    float: right;
+}
+
+.footer{
     background-color: #646794;
     color: aqua;
     text-align: center;
+    clear: both;
+    
+    
     
 }
