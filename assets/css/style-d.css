@@ -140,3 +140,12 @@ p{
     height: 200px;
     display: block;
 }
+
+#pic1{
+    position: relative;
+}
+
+#pic3{
+    float: left;
+
+}
